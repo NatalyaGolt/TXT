@@ -1,0 +1,4 @@
+Name: Natalya
+Age: 30
+Pets: 0
+Salary: 2000$
