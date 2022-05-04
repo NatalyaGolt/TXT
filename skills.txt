@@ -1,0 +1,4 @@
+Skills:
+1) Linux terminal/Gitbash
+2) JavaScript
+3) Autotests in Postman
