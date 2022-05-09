@@ -12,9 +12,17 @@ steps:
 3) Write the message
 4) Push button 'send'
 
-expected result: The letter sent sucsessfully. Window shows the message 'send'
+expected result: 
+1) Letter window is opened
+2) Can add an adress
+3) Can write the message
+4) The letter sent sucsessfully. Window shows the message 'sent'
 
-actual result: Can't send the email. Button 'send' is inactive
+actual result
+1) Letter window is opened
+2) Can add an adress
+3) Can write the message
+4) Can't send the email. Button 'send' is inactive
 
 priority: P1
 
